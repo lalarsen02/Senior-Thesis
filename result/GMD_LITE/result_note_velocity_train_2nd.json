@@ -1,0 +1,10 @@
+{
+    "Precision": 0.3770892687559354,
+    "Recall": 0.074829309896183,
+    "F-measure": 0.12443478803626365,
+    "Average_Overlap_Ratio": 0.4375813720347798,
+    "Precision_no_offset": 0.3882716049382716,
+    "Recall_no_offset": 0.07730018400175576,
+    "F-measure_no_offset": 0.12847484304046874,
+    "Average_Overlap_Ratio_no_offset": 0.430840596357124
+}

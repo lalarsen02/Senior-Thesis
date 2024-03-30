@@ -1,0 +1,16 @@
+{
+    "Precision": 0.6883116883116883,
+    "Recall": 0.1840277777777778,
+    "F-measure": 0.2904109589041096,
+    "Average_Overlap_Ratio": 0.9241182538970973,
+    "Precision_no_offset": 0.7012987012987013,
+    "Recall_no_offset": 0.1875,
+    "F-measure_no_offset": 0.2958904109589041,
+    "Average_Overlap_Ratio_no_offset": 0.9153860387475078,
+    "Onset_Precision": 1.0,
+    "Onset_Recall": 0.2673611111111111,
+    "Onset_F-measure": 0.42191780821917807,
+    "Offset_Precision": 0.7792207792207793,
+    "Offset_Recall": 0.20833333333333334,
+    "Offset_F-measure": 0.32876712328767127
+}

@@ -1,0 +1,36 @@
+{
+    "10ms": {
+        "Precision": 0.4448398025758686,
+        "Recall": 0.0398518603573521,
+        "Accuracy": 0.03819659945986118,
+        "Substitution Error": 0.030176059614097247,
+        "Miss Error": 0.9299720800285506,
+        "False Alarm Error": 0.013159315725299192,
+        "Total Error": 0.973307455367947,
+        "Chroma Precision": 0.5075567213147292,
+        "Chroma Recall": 0.04504559568928671,
+        "Chroma Accuracy": 0.04333347451007957,
+        "Chroma Substitution Error": 0.024982324282162644,
+        "Chroma Miss Error": 0.9299720800285506,
+        "Chroma False Alarm Error": 0.013159315725299192,
+        "Chroma Total Error": 0.9681137200360125,
+        "f1": 0.07315039663097345
+    },
+    "16ms": {
+        "Precision": 0.44534067896002155,
+        "Recall": 0.03970553614326221,
+        "Accuracy": 0.038063206964603045,
+        "Substitution Error": 0.029934795271126618,
+        "Miss Error": 0.9303596685856111,
+        "False Alarm Error": 0.013079653418087818,
+        "Total Error": 0.9733741172748255,
+        "Chroma Precision": 0.5077578611177261,
+        "Chroma Recall": 0.04486418673016127,
+        "Chroma Accuracy": 0.04316675331465055,
+        "Chroma Substitution Error": 0.024776144684227557,
+        "Chroma Miss Error": 0.9303596685856111,
+        "Chroma False Alarm Error": 0.013079653418087818,
+        "Chroma Total Error": 0.9682154666879266,
+        "f1": 0.07291053872360112
+    }
+}

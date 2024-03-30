@@ -1,0 +1,16 @@
+{
+    "Precision": 0.8,
+    "Recall": 0.5490196078431373,
+    "Accuracy": 0.4827586206896552,
+    "Substitution Error": 0.09803921568627451,
+    "Miss Error": 0.35294117647058826,
+    "False Alarm Error": 0.0392156862745098,
+    "Total Error": 0.49019607843137253,
+    "Chroma Precision": 0.8,
+    "Chroma Recall": 0.5490196078431373,
+    "Chroma Accuracy": 0.4827586206896552,
+    "Chroma Substitution Error": 0.09803921568627451,
+    "Chroma Miss Error": 0.35294117647058826,
+    "Chroma False Alarm Error": 0.0392156862745098,
+    "Chroma Total Error": 0.49019607843137253
+}
