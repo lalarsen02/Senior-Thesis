@@ -4,7 +4,8 @@
 
 This repository contains the code for my Senior Thesis. I used a combination of Convolutional Neural Networks (CNNs) and a 2-layer Hierarchical Encoder-Decoder Transformer to transcribe any drum part automatically.
 
-The Architecture for this Transformer is adapted from **"Automatic Piano Transcription with Hierarchical Frequency-Time Transformer"** presented in ISMIR2023 ([arXiv 2307.04305](https://arxiv.org/abs/2307.04305)).
+The architecture for this Transformer is adapted from **"Automatic Piano Transcription with Hierarchical Frequency-Time Transformer"** presented in ISMIR2023 ([arXiv 2307.04305](https://arxiv.org/abs/2307.04305)).
+
 Github: https://github.com/sony/hFT-Transformer
 
 ## Abstract
